@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalTileEngine", "FinalTileEngine\FinalTileEngine\FinalTileEngine.csproj", "{199D72A4-B05F-425D-8C46-6BF416B18E49}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "FinalTileEngineContent", "FinalTileEngine\FinalTileEngineContent\FinalTileEngineContent.contentproj", "{986062BD-55E3-4C3F-9E9D-112BA8A92530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{199D72A4-B05F-425D-8C46-6BF416B18E49}.Debug|x86.ActiveCfg = Debug|x86
+		{199D72A4-B05F-425D-8C46-6BF416B18E49}.Debug|x86.Build.0 = Debug|x86
+		{199D72A4-B05F-425D-8C46-6BF416B18E49}.Release|x86.ActiveCfg = Release|x86
+		{199D72A4-B05F-425D-8C46-6BF416B18E49}.Release|x86.Build.0 = Release|x86
+		{986062BD-55E3-4C3F-9E9D-112BA8A92530}.Debug|x86.ActiveCfg = Debug|x86
+		{986062BD-55E3-4C3F-9E9D-112BA8A92530}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
